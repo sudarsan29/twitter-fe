@@ -1,0 +1,36 @@
+.home-home{
+    margin-left: 300px;
+}
+.button{
+    background-color: white;
+    border-radius: 5px;
+    text-align: left;
+    border: none;
+}
+.button:hover{
+    background-color: rgb(6, 177, 245);
+}
+.fa-message {
+    font-size: xx-large;
+    color: rgb(6, 177, 245);
+}
+.fa-circle-user{
+    font-size: xx-large;
+}
+.btn-btn{
+    background-color: white;
+    margin-top: 400px;
+    font-size: xx-large;
+}
+.tweet-button{
+    margin-left: 330px;
+    width: 120px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: rgb(6, 177, 245);
+    border: none;
+    color: white;
+}
+.bottom-user{
+    margin-top: 400px;
+}

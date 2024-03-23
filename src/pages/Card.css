@@ -1,0 +1,37 @@
+.profile-pic{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+.retweet{
+    color: black;
+}
+.retweeted-icon{
+    color: black;
+}
+.card-container{
+    height:100%;
+}
+.tweet-pic{
+    width: 350px;
+    height: 200px;
+    border-radius: 5px;
+}
+.retweeticon{
+    color: rgb(10, 226, 89);
+}
+.fa-comment{
+    color: skyblue;
+}
+.fa-sharp{
+    color: red;
+}
+.fa-retweet:hover{
+  background-color: lightblue;
+}
+.fa-comment:hover{
+  background-color: lightblue;
+}
+.fa-heart:hover{
+  background-color: lightblue;
+}
